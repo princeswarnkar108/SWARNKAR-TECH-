@@ -1,0 +1,6 @@
+{
+  "name": "Home Teacher",
+  "description": "An interactive, personalized home educational tutor and practice app for Math, English, and Hindi subjects.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

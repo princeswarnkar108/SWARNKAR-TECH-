@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    
+    <!-- Open Book Vector Path (Centered and beautifully weighted) -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M26,62 C26,62 38,53 54,62 C70,53 82,62 82,62 L82,42 C82,42 70,33 54,42 C38,33 26,42 26,42 Z" />
+        
+    <!-- Book center division line -->
+    <path
+        android:strokeColor="#B0BEC5"
+        android:strokeWidth="1.5"
+        android:pathData="M54,42 L54,62" />
+
+    <!-- Sleek, bold slate black Graduation cap above the book -->
+    <path
+        android:fillColor="#ECEFF1"
+        android:pathData="M54,20 L76,28 L54,36 L32,28 Z" />
+        
+    <!-- Cap base support -->
+    <path
+        android:fillColor="#CFD8DC"
+        android:pathData="M43,30 L65,30 L65,36 L43,36 Z" />
+        
+    <!-- Golden graduation tassel -->
+    <path
+        android:strokeColor="#FFC107"
+        android:strokeWidth="1.5"
+        android:pathData="M54,28 L72,32" />
+        
+    <path
+        android:fillColor="#FFC107"
+        android:pathData="M72,32 A2,2 0 1 1 73.9,32.4" />
+</vector>
